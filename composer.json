@@ -1,0 +1,11 @@
+{
+    "name": "guicunha/locawebmailmarketing",
+    "authors": [
+        {
+            "name": "Guilherme Cunha",
+            "email": "guilherme.cunha@cromg.org.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
